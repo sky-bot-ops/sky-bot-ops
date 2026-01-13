@@ -18,5 +18,5 @@ I build automation tools and analytics pipelines that reduce manual work, improv
 
 ## Contact
 - GitHub: https://github.com/sky-bot-ops
-- LinkedIn: https://www.linkedin.com/in/akash-menon-443664291?trk=people-guest_people_search-card
+- LinkedIn: https://www.linkedin.com/in/akash-menon-443664291
 - Email: menonakash.1999@gmail.com
