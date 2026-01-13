@@ -5,10 +5,10 @@
 I build automation tools and analytics pipelines that reduce manual work, improve audit readiness, and create reliable reporting for stakeholders.
 
 ## Core Skills
-- **Python:** automation, ETL, data quality checks, reconciliation, exception reporting  
-- **Analytics:** Power BI dashboards, KPI reporting, data modeling  
+- **Python:** Automation, ETL, Data quality checks, Reconciliation, Exception Reporting  
+- **Analytics:** Power BI dashboards, KPI reporting, Data modeling  
 - **Tools:** Alteryx, Advanced Excel, Selenium, Git  
-- **Domain:** Audit analytics, compliance reporting, risk & controls
+- **Domain:** Audit analytics, Compliance reporting, Risk & Controls
 
 ## Featured Repos (in progress)
 - Continuous Audit Checks Engine (Exception reports + data quality rules)
