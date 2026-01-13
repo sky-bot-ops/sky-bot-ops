@@ -1,6 +1,6 @@
 # Akash Menon 👋
 
-**Data Analytics & Automation | Python • SQL • Alteryx • Power BI | Former EY Consultant**
+**Data Analytics & Automation | Python • SQL • Alteryx • Power BI • Microsoft Excel | Former EY Consultant**
 
 I build automation tools and analytics pipelines that reduce manual work, improve audit readiness, and create reliable reporting for stakeholders.
 
