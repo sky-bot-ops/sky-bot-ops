@@ -1,16 +1,22 @@
-## Hi there 👋
+# Akash Menon 👋
 
-<!--
-**sky-bot-ops/sky-bot-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analytics & Automation | Python • SQL • Alteryx • Power BI | Former EY Consultant**
 
-Here are some ideas to get you started:
+I build automation tools and analytics pipelines that reduce manual work, improve audit readiness, and create reliable reporting for stakeholders.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Skills
+- **Python:** automation, ETL, data quality checks, reconciliation, exception reporting  
+- **Analytics:** Power BI dashboards, KPI reporting, data modeling  
+- **Tools:** Alteryx, Advanced Excel, Selenium, Git  
+- **Domain:** Audit analytics, compliance reporting, risk & controls
+
+## Featured Repos (in progress)
+- Continuous Audit Checks Engine (Exception reports + data quality rules)
+- Reconciliation Automation Toolkit (GL vs subledger/bank matching + tolerance)
+- Journal Entry Risk Scoring (explainable red-flag scoring)
+- Evidence Tracker Automation (SLA aging + reminders-ready tracker)
+
+## Contact
+- GitHub: https://github.com/sky-bot-ops
+- LinkedIn: (paste your LinkedIn link)
+- Email: menonakash.1999@gmail.com
