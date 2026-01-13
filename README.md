@@ -13,6 +13,7 @@ I build automation tools and analytics pipelines that reduce manual work, improv
 ## Featured Repos (in progress)
 - Continuous Audit Checks Engine (Exception reports + data quality rules)
 - Reconciliation Automation Toolkit (GL vs subledger/bank matching + tolerance)
+- audit-dataquality-exception-engine (data quality checks + PowerBI ready output)
 - Journal Entry Risk Scoring (explainable red-flag scoring)
 - Evidence Tracker Automation (SLA aging + reminders-ready tracker)
 
